@@ -1,0 +1,43 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Sports",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Euro Penalty Cup 2021",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/EuroPenaltyCup2021Teaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/e/euro-penalty-cup-2021/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a7f90ecc-d700-4e69-9a6e-3135f26868f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=472&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "2",
+      "game_name": "Drag Racing Club",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/DragRacingClubTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/d/drag-racing-club/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7903c763-4f6b-48fb-8396-3a18daae70c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=472&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "3",
+      "game_name": "3D Basketball",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/3dBasketballTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/0/3d-basketball/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a7b60a51-7426-449a-8fed-e4f57d3dccd7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=473&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "4",
+      "game_name": "3D Darts",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/3dDartsTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/0/3d-darts/v190/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=58bfd66f-ebc8-4b7e-be65-68ff573a11bf&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=473&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "5",
+      "game_name": "Dunk Brush",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/DunkBrushTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/d/dunk-brush/v160/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=1c1cf583-eebb-4907-8a68-0df950dd7c81&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=472&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "6",
+      "game_name": "Goalkeeper Champ",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/GoalkeeperChampTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/g/goalkeeper-champ/v070/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=08c16895-73e4-4646-b0d2-398503758186&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=474&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    }
+  ]
+}
