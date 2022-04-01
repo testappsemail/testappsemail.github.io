@@ -1,0 +1,43 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Arcade",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Stair Race 3D",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/StairRace3dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=489&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "2",
+      "game_name": "Crowd Run 3D",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/CrowdRun3dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=517&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "3",
+      "game_name": "Uncle Ahmed",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/UncleAhmedTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/u/uncle-ahmed/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7c74de77-0a68-43e4-83ee-e35193fe0c13&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=517&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "4",
+      "game_name": "Frankenstein Go",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/FrankensteinGoTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/f/frankenstein-go/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=6cdf4891-4482-4d64-818a-c40a6e37b4cc&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=515&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "5",
+      "game_name": "Om Nom Connect Classic",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/OmNomConnectClassicTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=518&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "6",
+      "game_name": "Traffic Tom",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=515&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    }
+  ]
+}

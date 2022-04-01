@@ -1,0 +1,43 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Cards",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Crossover 21",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/Crossover21Teaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/c/crossover-21/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=569b9d43-61ca-454c-af87-f6cc6f935c44&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=461&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "2",
+      "game_name": "Pirate Cards",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/PirateCardsTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/p/pirate-cards/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7ba3cf66-f926-40dc-ba0e-6b1d7204d1b4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=462&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "3",
+      "game_name": "Solitaire Legend",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/SolitaireLegendTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/s/solitaire-legend/v070/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=89269fd5-5e8c-4461-96c4-43adcb2655f9&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=463&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "4",
+      "game_name": "Mafia Poker",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/MafiaPokerTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/m/mafia-poker/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8900d831-7ff7-478a-a4bb-5d811178c0b8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=464&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "5",
+      "game_name": "Solitaire Classic Christmas",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/SolitaireClassicChristmasTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/s/solitaire-classic-christmas/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=4d7dbb31-40fd-4485-b605-bd787bead79e&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=464&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "6",
+      "game_name": "Matching Card Heroes",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/MatchingCardHeroesTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/m/matching-card-heroes/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d0332604-3a77-4701-a972-3e6c9885278b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=465&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    }
+  ]
+}

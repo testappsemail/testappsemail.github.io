@@ -1,0 +1,43 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Puzzle",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Pop It! Duel",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/PopItDuelTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/p/pop-it-duel/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b6ac31c4-6f0a-420c-b01e-e8721e5a0d8d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=568&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "2",
+      "game_name": "Dices 2048 3D",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/Dices20483dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/d/dices-2048-3d/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23863c88-0a33-4bbc-bf3a-a7d9094c8c90&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=565&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "3",
+      "game_name": "Pop It! 3D",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/PopIt3dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/p/pop-it-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=021206dd-fbc0-443a-ad46-815955968f85&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=568&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "4",
+      "game_name": "Onet Gallery 3D",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/OnetGallery3dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/o/onet-gallery-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=fb7bbd78-93dd-4180-85ae-ddf09e3ed36b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=568&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "5",
+      "game_name": "Train 2048",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/Train2048Teaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/t/train-2048/v150/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abf56d7c-b1c7-493b-b2ac-aecb45d00ef8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=568&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "6",
+      "game_name": "Giant 2048",
+      "game_image": "https://customdatastorage.github.io/Winzo-New-Games-Images/Giant2048Teaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/g/giant-2048/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c2165815-114b-4af8-ac24-34eabc502c58&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=568&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    }
+  ]
+}
