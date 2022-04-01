@@ -1,0 +1,67 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Puzzle",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Wothan Escape",
+      "game_image": "https://games.atmegame.com/mkh/images/wothan-escape/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/wothan-escape/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "2",
+      "game_name": "Viking Escape",
+      "game_image": "https://games.atmegame.com/mkh/images/viking-escape/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/viking-escape/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "3",
+      "game_name": "Plumber",
+      "game_image": "https://games.atmegame.com/mkh/images/plumber/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/plumber/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "4",
+      "game_name": "Hexa Puzzle",
+      "game_image": "https://games.atmegame.com/mkh/images/hexa-puzzle/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/hexa-puzzle/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "5",
+      "game_name": "Happy Halloween",
+      "game_image": "https://games.atmegame.com/mkh/images/happy-halloween/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/happy-halloween/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "6",
+      "game_name": "Funny-Animals Match3",
+      "game_image": "https://games.atmegame.com/mkh/images/funny-animals-match3/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/funny-animals-match3/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "7",
+      "game_name": "Frog-Super Bubbles",
+      "game_image": "https://games.atmegame.com/mkh/images/frog-super-bubbles/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/frog-super-bubbles/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "8",
+      "game_name": "Brickout",
+      "game_image": "https://games.atmegame.com/mkh/images/brickout/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/brickout/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "9",
+      "game_name": "Animals-Crush Match3",
+      "game_image": "https://games.atmegame.com/mkh/images/animals-crush-match3/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/animals-crush-match3/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "10",
+      "game_name": "The-Bandit Hunter",
+      "game_image": "https://games.atmegame.com/mkh/images/the-bandit-hunter/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/the-bandit-hunter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    }
+  ]
+}

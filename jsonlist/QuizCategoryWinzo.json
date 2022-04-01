@@ -1,0 +1,73 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Quiz",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Penalty Challenge",
+      "game_image": "https://games.atmegame.com/mkh/images/penalty-challenge/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/penalty-challenge/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "2",
+      "game_name": "Strike Expert",
+      "game_image": "https://games.atmegame.com/mkh/images/strike-expert/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/strike-expert/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "3",
+      "game_name": "Viking Attack",
+      "game_image": "https://games.atmegame.com/mkh/images/viking-attack/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/viking-attack/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "4",
+      "game_name": "Virus Attack",
+      "game_image": "https://games.atmegame.com/mkh/images/virus-attack/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/virus-attack/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "5",
+      "game_name": "Air Hockey",
+      "game_image": "https://games.atmegame.com/mkh/images/air-hockey/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/air-hockey/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "6",
+      "game_name": "Bubblegum Balloon",
+      "game_image": "https://games.atmegame.com/mkh/images/bubblegum-balloon/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/bubblegum-balloon/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "7",
+      "game_name": "Duck Hunter",
+      "game_image": "https://games.atmegame.com/mkh/images/duck-hunter/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/duck-hunter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "8",
+      "game_name": "Duck Shooter",
+      "game_image": "https://games.atmegame.com/mkh/images/duck-shooter/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/duck-shooter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "9",
+      "game_name": "Mad Scientist",
+      "game_image": "https://games.atmegame.com/mkh/images/mad-scientist/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/mad-scientist/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "10",
+      "game_name": "Funny-Animals Match3",
+      "game_image": "https://games.atmegame.com/mkh/images/funny-animals-match3/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/funny-animals-match3/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "11",
+      "game_name": "Viking Escape",
+      "game_image": "https://games.atmegame.com/mkh/images/viking-escape/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/viking-escape/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    }
+  ]
+}

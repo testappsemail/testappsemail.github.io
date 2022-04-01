@@ -1,0 +1,43 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type":"Girls",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Breakfast Time",
+      "game_image": "https://games.atmegame.com/mkh/images/breakfast-time/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/breakfast-time/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "2",
+      "game_name": "Girl-Dress Up",
+      "game_image": "https://games.atmegame.com/mkh/images/girl-dress-up/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/girl-dress-up/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "3",
+      "game_name": "Popstar-Dress Up",
+      "game_image": "https://games.atmegame.com/mkh/images/popstar-dress-up/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/popstar-dress-up/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "4",
+      "game_name": "Flappy Pig",
+      "game_image": "https://games.atmegame.com/mkh/images/flappy-pig/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/flappy-pig/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "5",
+      "game_name": "Burger Time",
+      "game_image": "https://games.atmegame.com/mkh/images/burger-time/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/burger-time/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "6",
+      "game_name": "Stack Jump",
+      "game_image": "https://games.atmegame.com/mkh/images/stack-jump/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/stack-jump/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    }
+  ]
+}

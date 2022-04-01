@@ -1,0 +1,43 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Sports",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Basketball ",
+      "game_image": "https://games.atmegame.com/mkh/images/basketball/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/basketball/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "2",
+      "game_name": "Bubblegum Balloon",
+      "game_image": "https://games.atmegame.com/mkh/images/bubblegum-balloon/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/bubblegum-balloon/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "3",
+      "game_name": "Monster-Truck Football",
+      "game_image": "https://games.atmegame.com/mkh/images/monster-truck-football/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/monster-truck-football/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "4",
+      "game_name": "Stickman-Table Tennis",
+      "game_image": "https://games.atmegame.com/mkh/images/stickman-table-tennis/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/stickman-table-tennis/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "5",
+      "game_name": "Supe-Pon Goal",
+      "game_image": "https://games.atmegame.com/mkh/images/supe-pon-goal/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/supe-pon-goal/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "6",
+      "game_name": "Pool-8 Ball",
+      "game_image": "https://games.atmegame.com/mkh/images/pool-8-ball/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/pool-8-ball/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    }
+  ]
+}

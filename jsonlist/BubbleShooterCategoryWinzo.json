@@ -1,0 +1,103 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Puzzle",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Halloween-Bubble Shooter",
+      "game_image": "https://games.atmegame.com/mkh/images/halloween-bubble-shooter/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/halloween-bubble-shooter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "2",
+      "game_name": "Plumber",
+      "game_image": "https://games.atmegame.com/mkh/images/plumber/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/plumber/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "3",
+      "game_name": "Happy Halloween",
+      "game_image": "https://games.atmegame.com/mkh/images/happy-halloween/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/happy-halloween/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "4",
+      "game_name": "Frog-Super Bubbles",
+      "game_image": "https://games.atmegame.com/mkh/images/frog-super-bubbles/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/frog-super-bubbles/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "5",
+      "game_name": "Hexa Puzzle",
+      "game_image": "https://games.atmegame.com/mkh/images/hexa-puzzle/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/hexa-puzzle/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "6",
+      "game_name": "Brickout",
+      "game_image": "https://games.atmegame.com/mkh/images/brickout/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/brickout/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "7",
+      "game_name": "Wothan Escape",
+      "game_image": "https://games.atmegame.com/mkh/images/wothan-escape/thumb.png,
+      "game_link": "https://games.atmegame.com/mkh/games/wothan-escape/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "8",
+      "game_name": "Shoot Robbers",
+      "game_image": "https://games.atmegame.com/mkh/images/shoot-robbers/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/shoot-robbers/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "9",
+      "game_name": "Gold-Miner Jack",
+      "game_image": "https://games.atmegame.com/mkh/images/gold-miner-jack/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/gold-miner-jack/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "10",
+      "game_name": "Bubble Gems",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/BubbleGemsTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/b/bubble-gems/v120/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=91bbbd3c-e74f-46ef-a484-f4c908fabf78&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=594&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "11",
+      "game_name": "Joee Adventure",
+      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/BubblesShooterTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/b/bubbles-shooter/11-2be95/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2851855c-432c-4b79-be04-e1b1e0d23899&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=594&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "id": "12",
+      "game_name": "Bubble Hamsters",
+      "game_image": "https://games.atmegame.com/mkh/images/joee-adventure/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/joee-adventure/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "13",
+      "game_name": "Knife-Vs Zombies",
+      "game_image": "https://games.atmegame.com/mkh/images/knife-vs-zombies/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/knife-vs-zombies/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "14",
+      "game_name": "Popstar-Dress Up",
+      "game_image": "https://games.atmegame.com/mkh/images/popstar-dress-up/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/popstar-dress-up/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "15",
+      "game_name": "Piggybank Adventure",
+      "game_image": "https://games.atmegame.com/mkh/images/piggybank-adventure/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/piggybank-adventure/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "16",
+      "game_name": "Pool-8 Ball",
+      "game_image": "https://games.atmegame.com/mkh/images/pool-8-ball/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/pool-8-ball/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    }
+  ]
+}

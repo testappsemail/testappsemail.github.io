@@ -1,0 +1,43 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "category_type": "Cards",
+  "data": [
+    {
+      "id": "1",
+      "game_name": "Alien-Hunter 2",
+      "game_image": "https://games.atmegame.com/mkh/images/alien-hunter-2/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/alien-hunter-2/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "2",
+      "game_name": "Air Warfare",
+      "game_image": "https://games.atmegame.com/mkh/images/air-warfare/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/air-warfare/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "3",
+      "game_name": "Alien-Hunter 2",
+      "game_image": "https://games.atmegame.com/mkh/images/alien-hunter-2/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/alien-hunter-2/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "4",
+      "game_name": "Penalty Challenge",
+      "game_image": "https://games.atmegame.com/mkh/images/penalty-challenge/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/penalty-challenge/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "5",
+      "game_name": "Happy Halloween",
+      "game_image": "https://games.atmegame.com/mkh/images/happy-halloween/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/happy-halloween/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    },
+    {
+      "id": "6",
+      "game_name": "Swat-Vs Zombies",
+      "game_image": "https://games.atmegame.com/mkh/images/swat-vs-zombies/thumb.png",
+      "game_link": "https://games.atmegame.com/mkh/games/swat-vs-zombies/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
+    }
+  ]
+}
