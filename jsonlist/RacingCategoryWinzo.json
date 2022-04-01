@@ -1,6 +1,6 @@
 {
-status_code: "200",
-status_message: "success",
+"status_code": "200",
+"status_message": "success",
 data: [
 {
 id: "1",
