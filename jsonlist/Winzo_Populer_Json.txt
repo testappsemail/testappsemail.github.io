@@ -5,233 +5,233 @@
         {
         "qureka" : "0",
         "id": "1",
-        "game_name": "Traffic Tom",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=442&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Burger Time",
+        "game_image": "https://games.atmegame.com/mkh/images/burger-time/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/burger-time/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "2",
-        "game_name": "Moto X3M Pool Party",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/MotoX3mPoolPartyTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=440&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Cube Ninja",
+        "game_image": "https://games.atmegame.com/mkh/images/cube-ninja/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/cube-ninja/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "3",
-        "game_name": "Adventure Drivers",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/AdventureDriversTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Duck Hunter",
+        "game_image": "https://games.atmegame.com/mkh/images/duck-hunter/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/duck-hunter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 	{
         "qureka" : "1",
         "id": "100",
-        "game_name": "Tech Skill",
-        "game_image": "https://testappsemail.github.io/Happiness/1.png",
-        "game_link": ""
+        "game_name": "Duck Shooter",
+        "game_image": "https://games.atmegame.com/mkh/images/duck-shooter/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/duck-shooter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "4",
-        "game_name": "Moto X3M",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/MotoX3mTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=448&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Going Nuts",
+        "game_image": "https://games.atmegame.com/mkh/images/going-nuts/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/going-nuts/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "5",
-        "game_name": "High Hills",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/HighHillsTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=451&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Handless Millionaire",
+        "game_image": "https://games.atmegame.com/mkh/images/handless-millionaire/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/handless-millionaire/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "6",
-        "game_name": "Drag Racing Club",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/DragRacingClubTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/d/drag-racing-club/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7903c763-4f6b-48fb-8396-3a18daae70c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=316&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Hexa Puzzle",
+        "game_image": "https://games.atmegame.com/mkh/images/hexa-puzzle/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/hexa-puzzle/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 		{
         "qureka" : "1",
         "id": "100",
-        "game_name": "Mega Quiz",
-        "game_image": "https://testappsemail.github.io/Happiness/2.jpg",
-        "game_link": ""
+        "game_name": "Monster Rush",
+        "game_image": "https://games.atmegame.com/mkh/images/monster-rush/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/monster-rush/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "7",
-        "game_name": "Race Right",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/RaceRightTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/r/race-right/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2c1acec8-38bc-4c30-86f2-843c0d1f6dca&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=319&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Monster-Truck Football",
+        "game_image": "https://games.atmegame.com/mkh/images/monster-truck-football/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/monster-truck-football/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "8",
-        "game_name": "Biker Street",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/BikerStreetTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/b/biker-street/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=44eae6d5-c7ec-423f-9992-a29b03b9cb3f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Mummy Candies",
+        "game_image": "https://games.atmegame.com/mkh/images/mummy-candies/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/mummy-candies/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "9",
-        "game_name": "Highway Rider Extreme",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/HighwayRiderExtremeTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Ninja Run",
+        "game_image": "https://games.atmegame.com/mkh/images/ninja-run/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/ninja-run/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 		{
         "qureka" : "1",
         "id": "100",
-        "game_name": "Tech Skills",
-        "game_image": "https://testappsemail.github.io/Happiness/3.jpg",
-        "game_link": ""
+        "game_name": "Penalty Challenge",
+        "game_image": "https://games.atmegame.com/mkh/images/penalty-challenge/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/penalty-challenge/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "10",
-        "game_name": "Moto Fury",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/MotoFuryTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/m/moto-fury/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7c0efd17-b355-4e57-935e-7661b109a98c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Plumber",
+        "game_image": "https://games.atmegame.com/mkh/images/plumber/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/plumber/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "11",
-        "game_name": "Drift Cup Racing",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/DriftCupRacingTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/d/drift-cup-racing/v620/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e8ca54ee-cfbe-417c-b69e-e4f4858a9957&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=319&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Pool-8 Ball",
+        "game_image": "https://games.atmegame.com/mkh/images/pool-8-ball/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/pool-8-ball/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "12",
-        "game_name": "Racing Monster Trucks",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/RacingMonsterTrucksTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Popstar-Dress Up",
+        "game_image": "https://games.atmegame.com/mkh/images/popstar-dress-up/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/popstar-dress-up/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 		{
         "qureka" : "1",
         "id": "100",
-        "game_name": "Tech Skill",
-        "game_image": "https://testappsemail.github.io/Happiness/4.jpg",
-        "game_link": ""
+        "game_name": "Ranger-Vs Zombies",
+        "game_image": "https://games.atmegame.com/mkh/images/ranger-vs-zombies/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/ranger-vs-zombies/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "13",
-        "game_name": "Racing Cars",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/RacingCarsTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/r/racing-cars/v670/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ba418425-068d-4b12-9a35-21d9db2572f4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Road Racer",
+        "game_image": "https://games.atmegame.com/mkh/images/road-racer/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/road-racer/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "14",
-        "game_name": "Truck Trials",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/TruckTrialsTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/t/truck-trials/v510/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e56b8aaa-86e9-4d9f-9ea1-3822a3021716&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=321&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Rocky Jetpack",
+        "game_image": "https://games.atmegame.com/mkh/images/rocky-jetpack/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/rocky-jetpack/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "15",
-        "game_name": "Thug Racer",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/ThugRacerTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/t/thug-racer/v330/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c3a9bc6a-f9cf-4bcd-bd12-b1c5fcb4dc5d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Shoot Robbers",
+        "game_image": "https://games.atmegame.com/mkh/images/shoot-robbers/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/shoot-robbers/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 		{
         "qureka" : "1",
         "id": "100",
-        "game_name": "Mega Quiz",
-        "game_image": "https://testappsemail.github.io/Happiness/5.png",
-        "game_link": ""
+        "game_name": "Space Purge",
+        "game_image": "https://games.atmegame.com/mkh/images/space-purge/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/space-purge/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "16",
-        "game_name": "Endless Truck",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/EndlessTruckTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/e/endless-truck/v540/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a5ff2552-bbd9-4aff-9bcc-ec056478318d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Stack Jump",
+        "game_image": "https://games.atmegame.com/mkh/images/stack-jump/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/stack-jump/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "17",
-        "game_name": "Rival Rush",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/RivalRushTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/r/rival-rush/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eb55364-154f-40b4-b701-f029678d8e81&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=325&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Stick Panda",
+        "game_image": "https://games.atmegame.com/mkh/images/stick-panda/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/stick-panda/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "18",
-        "game_name": "Street Pursuit",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/StreetPursuit_Teaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/s/street-pursuit/7-8cd52b/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=aad22a94-8032-4cf9-8232-50f8a12d599c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Stickman-Table Tennis",
+        "game_image": "https://games.atmegame.com/mkh/images/stickman-table-tennis/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/stickman-table-tennis/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 		{
         "qureka" : "1",
         "id": "100",
-        "game_name": "GK Quiz",
-        "game_image": "https://testappsemail.github.io/Happiness/6.png",
-        "game_link": ""
+        "game_name": "Super-Cowboy Run",
+        "game_image": "https://games.atmegame.com/mkh/images/super-cowboy-run/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/super-cowboy-run/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "19",
-        "game_name": "StreetRace Fury",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/StreetRaceFuryTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/s/streetrace-fury/v360/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c124e0c0-7312-4f81-bdf0-ab1dbcc47ed4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Swat-Vs Zombies",
+        "game_image": "https://games.atmegame.com/mkh/images/swat-vs-zombies/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/swat-vs-zombies/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "20",
-        "game_name": "2Cars",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/2CarsTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/0/2cars/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=1cef50d7-93e3-4b9b-a974-df5fa99744f4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Tank Defender",
+        "game_image": "https://games.atmegame.com/mkh/images/tank-defender/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/tank-defender/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "21",
-        "game_name": "Don't Crash",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/DontCrashTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/d/dont-crash/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9320bd31-c1fa-4dda-9a89-6e3946399a84&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "The-Bandit Hunter",
+        "game_image": "https://games.atmegame.com/mkh/images/the-bandit-hunter/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/the-bandit-hunter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 		{
         "qureka" : "1",
         "id": "100",
-        "game_name": "Play Quiz",
-        "game_image": "https://testappsemail.github.io/Happiness/7.png",
-        "game_link": ""
+        "game_name": "Traffic",
+        "game_image": "https://games.atmegame.com/mkh/images/traffic/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/traffic/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "22",
-        "game_name": "Speed Maniac",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/SpeedManiacTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/s/speed-maniac/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ab87e052-64d3-44b9-b781-6ce8898be5a6&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Truck-Parking Pro",
+        "game_image": "https://games.atmegame.com/mkh/images/truck-parking-pro/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/truck-parking-pro/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "23",
-        "game_name": "Turbotastic",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/TurbotasticTeaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/t/turbotastic/v120/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=bc6a49d5-5482-4db5-95c7-af6db7e778cf&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Viking Attack",
+        "game_image": "https://games.atmegame.com/mkh/images/viking-attack/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/viking-attack/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "24",
-        "game_name": "Burnin Rubber",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/BurninRubber_Teaser.jpg",
-        "game_link": "https://games.cdn.famobi.com/html5games/b/burnin-rubber/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d55c9a5f-59ef-44c9-9fd9-b8b60cdb6b92&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Virus Attack",
+        "game_image": "https://games.atmegame.com/mkh/images/virus-attack/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/virus-attack/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
 		{
         "qureka" : "1",
         "id": "100",
-        "game_name": "IPL Quiz",
-        "game_image": "https://testappsemail.github.io/Happiness/8.png",
-        "game_link": ""
+        "game_name": "Zombie Buster",
+        "game_image": "https://games.atmegame.com/mkh/images/zombie-buster/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/zombie-buster/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         },
         {
         "qureka" : "0",
         "id": "25",
-        "game_name": "Speed Club Nitro",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/SprintClubNitroTeaser.jpeg",
-        "game_link": "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=330&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Zoo Run",
+        "game_image": "https://games.atmegame.com/mkh/images/zoo-run/thumb.png",
+        "game_link": "https://games.atmegame.com/mkh/games/zoo-run/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
         }
         ]
         }
