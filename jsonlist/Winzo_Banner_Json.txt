@@ -5,9 +5,9 @@
     {
         "qureka": "0",
         "id": "0",
-        "game_name": "Join Clash 3D",
-        "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/joincash3d.png",
-        "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=784&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_name": "Air Hockey",
+        "game_image": "https://games.atmegame.com/mkh/images/air-hockey/wall.png",
+        "game_link": "https://games.atmegame.com/mkh/games/air-hockey/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
       },
     {
         "qureka": "0",
@@ -19,9 +19,9 @@
     {
       "qureka": "0",
       "id": "0",
-      "game_name": "Om Nom Run",
-      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/om-nom-run-ios-android-featured.jpeg",
-      "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=255&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_name": "Assassin Knight",
+      "game_image": "https://games.atmegame.com/mkh/images/assassin-knight/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/assassin-knight/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
     },
  {
       "qureka": "0",
@@ -33,44 +33,44 @@
     {
       "qureka": "0",
       "id": "1",
-      "game_name": "Stair Race 3D",
-      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/run3d.png",
-      "game_link": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_name": "Brickout",
+      "game_image": "https://games.atmegame.com/mkh/images/brickout/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/brickout/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
     },
     {
       "qureka": "0",
       "id": "2",
-      "game_name": "Bus Parking 3D",
-      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/bus3dparking.png",
-      "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_name": "Bubblegum Balloon",
+      "game_image": "https://games.atmegame.com/mkh/images/bubblegum-balloon/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/bubblegum-balloon/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
     },
      {
       "qureka": "1",
       "id": "2",
-      "game_name": "Play and Win",
-      "game_image": "https://testappsemail.github.io/Happiness/900x506.jpg",
-      "game_link": "https://1103.win.qureka.com"
+      "game_name": "Cars",
+      "game_image": "https://games.atmegame.com/mkh/images/cars/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/cars/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
     },
     {
       "qureka": "0",
       "id": "1",
-      "game_name": "Adventure Drivers",
-      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/adventuredrivers.png",
-      "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_name": "Cyber Slashman",
+      "game_image": "https://games.atmegame.com/mkh/images/cyber-slashman/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/cyber-slashman/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
     },
     {
       "qureka": "0",
       "id": "4",
-      "game_name": "Traffic Rider",
-      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/rider.jpeg",
-      "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=295&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_name": "Dark Ninja",
+      "game_image": "https://games.atmegame.com/mkh/images/dark-ninja/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/dark-ninja/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
     },
     {
       "qureka": "0",
       "id": "5",
-      "game_name": "Subway Surfers",
-      "game_image": "https://testappsemail.github.io/Winzo-New-Games-Images/subway.png",
-      "game_link": "https://poki.com/en/g/subway-surfers#"
+      "game_name": "Duck Hunter",
+      "game_image": "https://games.atmegame.com/mkh/images/duck-hunter/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/duck-hunter/?utm_source=MKH2P15I&utm_medium=MKH2P15I"
     }
   ]
 }
